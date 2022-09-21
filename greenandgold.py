@@ -70,13 +70,13 @@ print()
 
 
 # add names to be later associated
-poop, toilet = zip(*ticker_full_name.items())
-print ("toilet : ", str(toilet))
+key3, hole3 = zip(*ticker_full_name.items())
+print ("hole3 : ", str(hole3))
 print()
 print()
 
-shit, nuts = zip(*sector_of_share.items())
-print("nuts: ", str(nuts))
+key4, hole4 = zip(*sector_of_share.items())
+print("hole4: ", str(hole4))
 print()
 print()
 
