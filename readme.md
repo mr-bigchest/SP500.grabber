@@ -24,6 +24,9 @@ I have uploaded the original webscraping component as a scarlet letter that will
 # Current Capabilities:
   - Get current day information on any stock or stocks listed in the S&P 500
 
+# GUI Layout [WIP]:
+  - https://www.figma.com/file/5v2WxP29Gf11b0lUHBYDNj/grabber-dash?node-id=0%3A1
+ 
 # Under Construction: 
   - Rudimentary GUI
   - Re-work code of primary functions to remove any global variables / general inefficiencies
