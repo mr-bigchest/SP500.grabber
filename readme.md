@@ -18,6 +18,7 @@ I have uploaded the original webscraping component as a scarlet letter that will
       - Vertical & Horizontal Analysis
       - Multiples Ratios calculations (P/E, P/BV, etc.)
   - Provide the user a capability to export any of their collected information to Excel, CSV
+  - Provide basic explanations for what different financial calculations mean and how the information can be actionable
   - In lieu of user account system, upload data created from previous sessions to get going again (user accounts possible but fact finding required)
  
 # Current Capabilities:
